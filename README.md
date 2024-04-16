@@ -1,9 +1,9 @@
-### Hi there! I'm Lizeth 👋
-## A college student studying CS at CSULB, interested in game and web development!
+## Hi there! I'm Lizeth 👋
+### A college student studying Computer Science at CSULB, interested in game and web development!
 Pronouns: she/her
-🔭 I’m currently working on: HangoGo 
-🌱 I’m currently learning ...
-📫 How to reach me: lizethevald@gmail.com
+- 🔭 I’m currently working on: HangoGo & Horror Dating Sim Game (VGDA)
+- 🌱 I’m currently learning:
+- 📫 How to reach me: lizethevald@gmail.com
 <!--
 **Lizeth-V/Lizeth-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
