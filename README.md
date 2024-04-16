@@ -4,6 +4,8 @@ Pronouns: she/her
 - 🔭 I’m currently working on: HangoGo & Horror Dating Sim Game (VGDA)
 - 🌱 I’m currently learning:
 - 📫 How to reach me: lizethevald@gmail.com
+### Connect with me
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lizeth-valdovinos-rodriguez/)
 <!--
 **Lizeth-V/Lizeth-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
