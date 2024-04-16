@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there! I'm Lizeth 👋
+## A college student studying CS at CSULB, interested in game and web development!
+Pronouns: she/her
+🔭 I’m currently working on: HangoGo 
+🌱 I’m currently learning ...
+📫 How to reach me: lizethevald@gmail.com
 <!--
 **Lizeth-V/Lizeth-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
