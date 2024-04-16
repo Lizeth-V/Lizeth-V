@@ -1,4 +1,4 @@
-## Hi there! I'm Lizeth 👋
+# Hi there! I'm Lizeth 👋
 ### A college student studying Computer Science at CSULB, interested in game and web development!
 Pronouns: she/her
 - 🔭 I’m currently working on: HangoGo & Horror Dating Sim Game (VGDA)
