@@ -1,8 +1,8 @@
 # Hi there! I'm Lizeth 👋
-### A college student studying Computer Science at CSULB, interested in game and web development!
+### A CSULB Computer Science Alumni, interested in game and web development!
 Pronouns: she/her
-- 🔭 I’m currently working on: HangoGo & Horror Dating Sim Game (VGDA)
-- 🌱 I’m currently learning:
+- 🔭 I’m currently working on: My portfolio website and a website for Flourish Productions!
+- 🌱 I’m currently learning: React
 - 📫 How to reach me: lizethevald@gmail.com
 ### Connect with me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/lizeth-valdovinos-rodriguez/)
